@@ -169,7 +169,7 @@ This project simulates how modern chat systems (like WhatsApp/Slack) are built a
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Chat-App.git
+git clone https://github.com/Avik2903/Chat-App.git
 
 # Install dependencies for each service
 cd chat && npm install
